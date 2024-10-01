@@ -22,6 +22,13 @@
 ![TailwindCSS Badge](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+
+### 🔥 Featured Projects:
+- **GameMr App**: An online store for gaming merchandise, featuring smooth animations and a pleasant user experience. Currently in development.
+  - Technologies: React Native, Firebase, Expo
+  - [GitHub Repo](https://github.com/MHC32/gamemr) (coming soon) | [Live Demo](#) (coming soon)
+
+
 <!--
 **MHC32/MHC32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
