@@ -30,14 +30,15 @@
 
 
 ### 📫 Contact & Social Media:
-- **Upwork**: [Your Upwork Profile](https://www.upwork.com/freelancers/~01d690bfc51dec27af?viewMode=1)
-- **LinkedIn**: [Hantz Michael Chery](https://www.linkedin.com/in/hantz-michael-chery-157762164)
-- **X (Twitter)**: [@nagissa32](https://twitter.com/nagissa32)
-- **Dev.to**: [@mhc32](https://dev.to/mhc32)
-- **Discord**: mhc32
-- **Reddit**: u/nagissa32
-- **Stack Overflow**: [Hantz Michael Chery](https://stackoverflow.com/users/15770907/hantz-michaell-chery)
-- **Codewars**: [MHC32](https://www.codewars.com/users/MHC32)
+- ![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white) [Your Upwork Profile](https://www.upwork.com/freelancers/~01d690bfc51dec27af?viewMode=1)
+- ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [Hantz Michael Chery](https://www.linkedin.com/in/hantz-michael-chery-157762164)
+- ![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [@nagissa32](https://twitter.com/nagissa32)
+- ![Dev.to Badge](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) [@mhc32](https://dev.to/mhc32)
+- ![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) mhc32
+- ![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) u/nagissa32
+- ![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white) [Hantz Michael Chery](https://stackoverflow.com/users/15770907/hantz-michaell-chery)
+- ![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white) [MHC32](https://www.codewars.com/users/MHC32)
+
 
 <!--
 **MHC32/MHC32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
