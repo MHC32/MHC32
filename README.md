@@ -29,6 +29,16 @@
   - [GitHub Repo](https://github.com/MHC32/gamemr) (coming soon) | [Live Demo](#) (coming soon)
 
 
+### 📫 Contact & Social Media:
+- **Upwork**: [Your Upwork Profile](https://www.upwork.com/freelancers/~01d690bfc51dec27af?viewMode=1)
+- **LinkedIn**: [Hantz Michael Chery](https://www.linkedin.com/in/hantz-michael-chery-157762164)
+- **X (Twitter)**: [@nagissa32](https://twitter.com/nagissa32)
+- **Dev.to**: [@mhc32](https://dev.to/mhc32)
+- **Discord**: mhc32
+- **Reddit**: u/nagissa32
+- **Stack Overflow**: [Hantz Michael Chery](https://stackoverflow.com/users/15770907/hantz-michaell-chery)
+- **Codewars**: [MHC32](https://www.codewars.com/users/MHC32)
+
 <!--
 **MHC32/MHC32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
