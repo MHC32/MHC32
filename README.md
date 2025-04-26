@@ -1,9 +1,9 @@
 # Hi 👋, I'm MHC32 (Chéry Hantz Michael)
 ### React Native Specialist | iOS/Android Apps | Firebase Expert | Open to Collabs
 
-### About Me
+### 🧑‍💻 About Me
 Passionate React Native developer building performant iOS/Android apps with Firebase.  
-Open to collaborations and freelance opportunities.  
+🔥 Open to collaborations and freelance opportunities.   
 
 ### **Core Tech Stack** 
 ![React native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
