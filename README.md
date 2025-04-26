@@ -1,6 +1,10 @@
 # Hi 👋, I'm MHC32 (Chéry Hantz Michael)
 ### React Native Specialist | iOS/Android Apps | Firebase Expert | Open to Collabs
 
+### About Me
+Passionate React Native developer building performant iOS/Android apps with Firebase.  
+Open to collaborations and freelance opportunities.  
+
 ### **Core Tech Stack** 
 ![React native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,7 +28,7 @@
 
 
 ### 📫 Contact & Social Media:
-- ![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white) [Your Upwork Profile](https://www.upwork.com/freelancers/~01d690bfc51dec27af?viewMode=1)
+- ![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white) (https://www.upwork.com/freelancers/~01d690bfc51dec27af?viewMode=1)
 - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [Hantz Michael Chery](https://www.linkedin.com/in/hantz-michael-chery-157762164)
 - ![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [@nagissa32](https://twitter.com/nagissa32)
 - ![Dev.to Badge](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) [@mhc32](https://dev.to/mhc32)
