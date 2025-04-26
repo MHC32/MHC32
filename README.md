@@ -1,11 +1,14 @@
 # Hi 👋, I'm MHC32 (Chéry Hantz Michael)
 ### React Native Specialist | iOS/Android Apps | Firebase Expert | Open to Collabs
 
-### 🛠️ Technologies & Tools:
+### **Core Tech Stack** 
 ![React native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+ ![LOTTIE Badge](https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottie&logoColor=white)
+ 
+### **Tools & Environments** 
 ![Expo CLI Badge](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
