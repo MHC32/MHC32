@@ -28,7 +28,7 @@ Open to collaborations and freelance opportunities.
 
 
 ### 📫 Contact & Social Media:
-- ![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white) (https://www.upwork.com/freelancers/~01d690bfc51dec27af?viewMode=1)
+- ![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white) [My profile Upwork](https://www.upwork.com/freelancers/~01d690bfc51dec27af?viewMode=1)
 - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [Hantz Michael Chery](https://www.linkedin.com/in/hantz-michael-chery-157762164)
 - ![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [@nagissa32](https://twitter.com/nagissa32)
 - ![Dev.to Badge](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) [@mhc32](https://dev.to/mhc32)
